@@ -2,7 +2,7 @@
     package="com.example.flutter_lab5">
 
     <application
-        android:label="flutter_lab5"
+        android:label="Facebookito"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
 
